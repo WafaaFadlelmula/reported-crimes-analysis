@@ -208,8 +208,13 @@ __marimo__/
 
 
 # data files
-data/raw/*.csv
-data/raw/*.xlsx
+data/raw/2020-04/*.csv
+data/raw/2020-05/*.csv
+data/raw/2020-06/*.csv
+data/raw/2020-07/*.csv
+data/raw/2020-08/*.csv
+data/raw/2020-09/*.csv
+# Data files
 
 # Environment
 .env
